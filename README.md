@@ -1,3 +1,3 @@
 # bank-branch
 
-![screenshot](Screenshot (898).png)
+![screenshot] (Screenshot (898).png)
