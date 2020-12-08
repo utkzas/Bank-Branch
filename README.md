@@ -1,7 +1,7 @@
 # bank-branch
 
 ## Web Scraping Project
-## Scrapping Data of all Asia Pacific Branches of Goldman Sachs
+## Scrapping Data of all Asia Pacific Branches of Goldman Sachs and arranging it in an unordered list
 
 ![screenshot](https://raw.githubusercontent.com/utkzas/bank-branch/main/Screenshot%20(898).png)
 
